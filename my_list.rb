@@ -1,4 +1,4 @@
-require_relative './my_enumerable'
+require_relative './my_enumerable' # rubocop:disable Layout/EndOfLine
 
 class MyList
   def initialize(*args)

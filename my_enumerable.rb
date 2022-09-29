@@ -1,4 +1,4 @@
-module MyEnumerable
+module MyEnumerable # rubocop:disable Layout/EndOfLine
   def all?
     each do |x|
       return false unless yield x
