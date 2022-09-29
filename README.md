@@ -1,44 +1,26 @@
 # Ruby Morse Code Decoder
 
-> We created a Ruby program that helps decrypt morse code messages automatically.
+> We created a Ruby program that to use our own Enumerable.
 
 ## Getting Started 🙌
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+## Test
 
-```
-  node js
-  npm
-
-```
-
-### Setup
-
-Clone the repository and change the directory to portfolio
-
-### Install
-
-Install all project dependencies by running the command below
-
-```
- ` $ npm install`
-```
-
-### Usage
-
-Run
-
-```
-  `$ npm start or deploy the index.html from the build/public folder
-```
+Run `ruby my_list.rb` in root folder to test code
 
 👤 **Alfred Boateng**
 
 - GitHub: [@learnwithalfred](https://github.com/learnwithalfred)
 - Twitter: [@kb_alfred](https://twitter.com/kb_alfred)
 - LinkedIn: [@learnwithalfred](https://www.linkedin.com/in/learnwithalfred/)
+
+👤 **Hamayoun Ali**
+
+- GitHub: [@Hamayounali](https://github.com/Hamayounali)
+- Twitter: [@hamayounAli6](https://twitter.com/hamayounAli6)
+- LinkedIn: [Humayoon Ali](https://www.linkedin.com/in/humayoon-ali-663ba2239)
 
 ## 🤝 Contributing
 
@@ -59,8 +41,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
-# studious-computing-machine
-# studious-computing-machine
-# reimagined-octo-guide
-# reimagined-octo-guide
-# silver-parakeet
